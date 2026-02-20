@@ -1,0 +1,8 @@
+NRRD0001
+content: engine
+type: unsigned char
+dimension: 3
+sizes: 128 128 128
+spacings: 1 1 1
+encoding: gzip
+data file: ./hydrogenAtom.raw.gz

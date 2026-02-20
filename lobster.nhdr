@@ -1,0 +1,8 @@
+NRRD0001
+content: engine
+type: unsigned char
+dimension: 3
+sizes: 301 324 56
+spacings: 1 1 1
+encoding: gzip
+data file: ./lobster.raw.gz

@@ -1,0 +1,7 @@
+NRRD0001
+content: marschnerlobb
+type: unsigned char
+dimension: 3
+sizes: 41 41 41
+encoding: gzip
+data file: ./marschnerlobb.raw.gz
