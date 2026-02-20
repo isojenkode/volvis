@@ -1,0 +1,8 @@
+NRRD0001
+type: unsigned short
+dimension: 3
+sizes: 256 320 128
+spacings: 0.66 0.66 0.66
+endian: little
+encoding: gzip
+data file: ./mrt16_angio2.raw.gz
