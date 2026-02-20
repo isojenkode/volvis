@@ -1,5 +1,6 @@
 # volvis
-A copy of the smaller (under 25M) files in volvis.org repository maintained by Stephan Rottger at the University of Tubingen.
+A copy of the smaller (under 25M) files in the (now defunct) volvis.org repository. 
+The repository was maintained by Stephan Rottger at the University of Tubingen.
 
 The data sets have been converted to Teem nrrd format using the Teem unu command.
 
